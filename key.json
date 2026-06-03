@@ -1,7 +1,7 @@
 {
   "keys": {
     "YT-MURSLEEN-OBB-TOOL": {
-      "blocked": true,
+      "blocked": false,
       "reason": null,
       "expiry": "2026-6-31",
       "plan": "premium",
